@@ -11,6 +11,7 @@ while True:
         x = int(x)
         break
 
+
 a = True
 
 if x < 2:
